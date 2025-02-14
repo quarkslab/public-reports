@@ -4,6 +4,8 @@
 
 ### 2024
 
+ - 2024-10: [The Notary Project Security Audit - Technical report focused on new cryptographic features 📜](Reports/24-10-1825-LIV-v1.5.pdf)
+   - See also the [associated blog post](https://blog.quarkslab.com/security-audit-of-the-notary-project.html)
  - 2024-05: [Source code review - OSTIF - OperatorFabric - Full audit of the solution 📜](Reports/24-06-1685-REP_OSTIF-OperatorFabric-2.pdf)
    - See also the [associated blog post](https://blog.quarkslab.com/audit-of-operator-fabric.html)
  - 2024-05: [Airswift - Supply Chain Financing - Stellar Audit Bank 📜](Reports/24-05-1650-REP-Airswift-audit-V1.2.pdf)
