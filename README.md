@@ -2,6 +2,11 @@
 # Quarkslab Public Reports
 
 
+### 2025
+
+ - 2025-02: [Allbridge Estrela - Stellar Audit Bank 📜](Reports/25-01-1969-REP-v1.1.pdf)
+   - See also the [associated blog post](https://blog.quarkslab.com/audit-of-allbridge-estrela-round-2.html)
+
 ### 2024
 
  - 2024-10: [The Notary Project Security Audit - Technical report focused on new cryptographic features 📜](Reports/24-10-1825-LIV-v1.5.pdf)
