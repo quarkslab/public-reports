@@ -4,6 +4,8 @@
 
 ### 2025
 
+ - 2025-04: [PHP-SRC audit 📜](Reports/24-07-1730-REP-v1.4.pdf)
+   - See also the [associated blog post](https://blog.quarkslab.com/security-audit-of-php-src.html)
  - 2025-02: [Allbridge Estrela - Stellar Audit Bank 📜](Reports/25-01-1969-REP-v1.1.pdf)
    - See also the [associated blog post](https://blog.quarkslab.com/audit-of-allbridge-estrela-round-2.html)
 
