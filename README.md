@@ -58,6 +58,7 @@
    - See also the [associated blog post](https://blog.quarkslab.com/technical-assessment-of-the-herumi-libraries.html)
  - 2020-05: Ansible Security Assessment
    - See the [associated blog post](https://blog.quarkslab.com/ansible-security-assessment.html)
+ - 2020-01: [État de l'art: Techniques de fuzzing, exécution symbolique, slicing et combinaisons 📜](Reports/18-11-488-REP.pdf)
 
 ### 2019
 
@@ -67,15 +68,13 @@
    - See also the [associated blog post](https://blog.quarkslab.com/security-audit-of-monero-randomx.html)
  - 2019-06: [Evaluation of Bulletproofs and MLSAG 📜](Reports/19-04-948-REP-particl_audit_report.pdf)
    - See also the [associated blog post](https://blog.quarkslab.com/security-audit-of-particl-bulletproof-and-mlsag.html)
+ - 2019-01: [OpenSSL Security Assessment Technical Report 📜](Reports/18-04-720-REP_v1.2.pdf)
+
 
 ### 2018
 
  - 2018-10: [Evaluation of Bulletproof Implementation - Monero 📜](Reports/18-06-439-REP-monero-bulletproof-sec-assessment.pdf)
    - See also the [associated blog post](https://blog.quarkslab.com/security-audit-of-monero-bulletproofs.html)
-
-### 2019
-
- - 2019-01: [OpenSSL Security Assessment Technical Report 📜](Reports/18-04-720-REP_v1.2.pdf)
 
 ### 2017
 
