@@ -1,9 +1,10 @@
 
 # Quarkslab Public Reports
 
-
 ### 2025
 
+ - 2025-11: [Bitcoin core security audit 📜](Reports/Bitcoin-Core_25-05-2133-REP_v1.3.pdf)
+   - See also the [associated blog post](https://blog.quarkslab.com/bitcoin-core-audit.html)
  - 2025-11: [KubeVirt security audit 📜](Reports/KubeVirt_OSTIF_Report_25-06-2150-REP_v1.2.pdf)
    - See also the [associated blog post](https://blog.quarkslab.com/kubevirt-security-audit.html)
  - 2025-04: [PHP-SRC audit 📜](Reports/24-07-1730-REP-v1.4.pdf)
