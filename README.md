@@ -1,6 +1,11 @@
 
 # Quarkslab Public Reports
 
+### 2026
+
+  - 2026-01: [EVerest security audit 📜](Reports/EVerest_OSTIF_Technical_Audit_Report_25-07-2250-REP_v1.0.pdf)
+    - See also the [associated blog post](https://blog.quarkslab.com/everest-security-audit.html)
+
 ### 2025
 
  - 2025-11: [Bitcoin core security audit 📜](Reports/Bitcoin-Core_25-05-2133-REP_v1.3.pdf)
