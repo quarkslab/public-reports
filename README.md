@@ -2,6 +2,8 @@
 # Quarkslab Public Reports
 
 ### 2026
+ - 2026-06: [Scala security audit 📜](Reports/26-04-2682-REP-OSTIF-LLVM-BOLT-validating-automatic-variable-initialisation-V1.1.pdf)
+    - See also the [associated blog post](https://blog.quarkslab.com/extending-llvms-bolt-based-binary-analyser-to-validate-stack-variable-initialisation.html)
   - 2026-06: [Scala security audit 📜](Reports/26-01-2527-REP-scala-security-audit-V1.0.pdf)
     - See also the [associated blog post](https://blog.quarkslab.com/scala-security-audit.html)
   - 2026-05: [Paramiko security audit 📜](Reports/25-11-2415-REP_paramiko-security-audit_v1.1.pdf)
