@@ -3,6 +3,8 @@
 
 ### 2026
 
+- 2026-10: [mbedTLS security audit 📜](Reports/26-05-2730-REP_v1.0-1.pdf)
+   - See also the [associated blog post](https://blog.quarkslab.com/mbedtls-security-audit)
 - 2026-07: [Cortex security audit 📜](Reports/26-04-2696-REP-Cortex-security-audit-V1.1.pdf)
    - See also the [associated blog post](https://blog.quarkslab.com/cortex-security-audit.html)
 - 2026-06: [Stack Variable Initialisation using LLVM BOLT 📜](Reports/26-04-2682-REP-OSTIF-LLVM-BOLT-validating-automatic-variable-initialisation-V1.1.pdf)
